@@ -1,6 +1,6 @@
 # 🧠 AI Resume Analyzer
 
-A privacy-first web app that analyzes resumes and provides smart, actionable feedback on **ATS compatibility**, **content quality**, **structure**, **tone**, and **skills alignment** — all running **entirely in the browser**.
+A smart web app that analyzes resumes and provides smart, actionable feedback on **ATS compatibility**, **content quality**, **structure**, **tone**, and **skills alignment** — all running **entirely in the browser**.
 
 Built with **React (Vite)** and **Puter SDK**, this project does **not rely on external AI APIs**. Resume analysis happens client-side for maximum speed, privacy, and zero backend costs.
 
