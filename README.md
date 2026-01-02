@@ -38,5 +38,4 @@ Built with **React (Vite)** and **Puter SDK**, this project does **not rely on e
 - **Frontend:** React + Vite
 - **Runtime & Storage:** Puter SDK
 - **PDF Parsing:** In-browser PDF processing
-- **AI Logic:** Client-side heuristics & models (no external APIs)
-- **Styling:** CSS / Tailwind / custom styles (adjust as needed)
+- **Styling:**  Tailwind CSS
